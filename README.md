@@ -1,4 +1,4 @@
-# Xeno CRM - An AI-Powered Mini CRM Platform
+<img width="1122" height="850" alt="image" src="https://github.com/user-attachments/assets/ff47dc66-ea98-43ba-9397-cdfad6945e75" /># Xeno CRM - An AI-Powered Mini CRM Platform
 
 Xeno CRM is a modern, intelligent Mini CRM platform built as a hands-on assignment for the **SDE Internship position at Xeno**.  
 This project demonstrates a real-world application of **customer segmentation, personalized campaign delivery, and intelligent insights** using a **MERN stack** and the **Google Gemini AI API**.
